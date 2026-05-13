@@ -28,25 +28,4 @@ GitHub
 GitHub Actions
 Google Colab
 
-**Project Structure**
-CI-CD_LAB/
-│
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-│
-├── data/
-│   ├── dataset.csv
-│   ├── processed_dataset.csv
-│   └── test_output.csv
-│
-├── scripts/
-│   ├── __init__.py
-│   └── remove_duplicates.py
-│
-├── tests/
-│   └── test_remove_duplicates.py
-│
-├── requirements.txt
-└── README.md
 
